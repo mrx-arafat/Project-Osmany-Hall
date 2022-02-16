@@ -6,4 +6,4 @@ It handles DPI connected using optical splitter or port mirroring (Passive DPI) 
 
 Windows 7, 8, 8.1, 10 or 11 with administrator privileges required.
 
-[credit:](https://ntc.party/c/community-software/goodbyedpi/8)
+[Developer-©](https://ntc.party/c/community-software/goodbyedpi/8)
